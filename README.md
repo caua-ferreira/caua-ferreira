@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Cauã Ferreira e sou Engenheiro de Dados, migrando para Cientista de dados e sobrevivendo ao Brasil!
+<p align="left">Meu nome é Cauã Ferreira e sou Engenheiro de Dados, migrando para Cientista de dados e <b>sobrevivendo</b> ao Brasil!
 </p>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🤓 Errando as cores dos dashboards há mais de 10 anos (sou daltônico kk) <br>💻 Curto mexer com SQL | Python | Databricks | Azure<br>📊 Também mando bem em Power BI, Tableau e CRM Analytics<br>🎯 Missão: simplificar desafios complexos com tecnologia<br>📚 Sempre aprendendo coisas novas e de olho nas tendências do mercado</p>
+<p align="left">🤓 <b>Errando</b> as cores dos dashboards há mais de 10 anos (sou daltônico kk) <br>💻 Curto mexer com SQL | Python | Databricks | Azure<br>📊 Também mando bem em Power BI, Tableau e CRM Analytics<br>🎯 Missão: simplificar desafios complexos com tecnologia<br>📚 Sempre aprendendo coisas novas e de olho nas tendências do mercado</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">☕ Amante de café (quase um requisito 😅)<br>🎮 Jogador casual de games<br>🎶 Música sempre me acompanha no dia a dia<br>🏎️ GearHead desde pequeno<br>🏈 Ex Quarterback não-profissional</p>
+<p align="left">☕ Amante de <b>café</b> (quase um requisito 😅)<br>🎮 Jogador casual de games<br>🎶 Música sempre me acompanha no dia a dia<br>🏎️ <b>GearHead</b> desde pequeno<br>🏈 Ex Quarterback não-profissional</p>
 
 ###
 
