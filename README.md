@@ -93,8 +93,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=caua-ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&custom_title=V%C3%AA%20meus%20n%C3%BAmeros%20ai:" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caua-ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&custom_title=O%20que%20eu%20codeio%20mais:" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=caua-ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&custom_title=V%C3%AA%20meus%20n%C3%BAmeros%20ai:" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caua-ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&custom_title=O%20que%20eu%20cOdeio%20mais:" height="200" alt="languages graph"  />
 </div>
 
 ###
