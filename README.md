@@ -88,19 +88,15 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNwN296bXE3MjF5ZW9hcXdvcXhjcW1wdGh6eHY5MDAzNnl0bjVkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x4unLoM3hApc2Cw5kO/giphy.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=caua-ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&custom_title=V%C3%AA%20meus%20n%C3%BAmeros%20ai:" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caua-ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&custom_title=O%20que%20eu%20cOdeio%20mais:" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caua-ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&custom_title=V%C3%AA%20meus%20n%C3%BAmeros%20ai:" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caua-ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&custom_title=O%20que%20eu%20cOdeio%20mais:" height="220" alt="languages graph"  />
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/caua-ferreira/caua-ferreira/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/caua-ferreira/caua-ferreira/output/snake.svg" alt="Snake animation" />
+</div>
