@@ -97,6 +97,3 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/caua-ferreira/caua-ferreira/output/snake.svg" alt="Snake animation" />
-</div>
