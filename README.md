@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🤓 <b>Errando</b> as cores dos dashboards há mais de 10 anos (sou daltônico kk) <br>💻 Curto mexer com SQL | Python | Databricks | Azure<br>📊 Também mando bem em Power BI, Tableau e CRM Analytics<br>🎯 Missão: simplificar desafios complexos com tecnologia<br>📚 Sempre aprendendo coisas novas e de olho nas tendências do mercado</p>
+<p align="left">🤓 <b>Errando</b> as cores dos dashboards há mais de 10 anos (daltonismo 🥸) <br>💻 Curto mexer com SQL | Python | Databricks | Azure | AWS | GCP <br>📊 Também mando bem em Power BI, Tableau e CRM Analytics<br>🎯 Missão: simplificar desafios complexos com tecnologia<br>📚 Sempre aprendendo coisas novas e de olho nas tendências do mercado</p>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">☕ Amante de <b>café</b> (quase um requisito 😅)<br>🎮 Jogador casual de games<br>🎶 Música sempre me acompanha no dia a dia<br>🏎️ <b>GearHead</b> desde pequeno<br>🏈 Ex Quarterback não-profissional</p>
+<p align="left">☕ Amante de <b>café</b> (quase um requisito 😅)<br>🎮 Jogador casual de games (Age Of Empires, Roller Coaster Tycoon...)<br>🎶 Música sempre me acompanha no dia a dia<br>🏎️ <b>GearHead</b> desde pequeno<br>🏈 Ex Quarterback não-profissional</p>
 
 ###
 
@@ -85,15 +85,6 @@
   <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo"  />
-</div>
-
-###
-
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caua-ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&custom_title=O%20que%20eu%20cOdeio%20mais:" height="220" alt="languages graph"  />
 </div>
 
 ###
